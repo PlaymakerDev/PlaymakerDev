@@ -1,7 +1,3 @@
-## About
-- Frontend Developer
-- Server Administration specialist
-
 ## Experience
 - Server Administration
 - Javascript
@@ -9,5 +5,5 @@
 - HTML and CSS
 - Bootstrap
 
-## Contact me
-- Discord: Playmaker#0638
+## Contact
+Discord: Playmaker#0638
