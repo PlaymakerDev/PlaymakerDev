@@ -1,3 +1,5 @@
+![Background](https://cdn.discordapp.com/attachments/825477528357568523/1002123916996771880/banner_edit.jpg)
+
 ## Experience
 - Server Administration
 - Javascript
