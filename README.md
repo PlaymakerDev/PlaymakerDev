@@ -9,10 +9,5 @@
 - HTML and CSS
 - Bootstrap
 
-## Hobby
-- Setting up game server
-- Playing game
-- Coding
-
 ## Contact me
 - Discord: Playmaker#0638
