@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @PlaymakerDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## About
+- Frontend Developer
+- Server Administration specialist
 
-<!---
-PlaymakerDev/PlaymakerDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Experience
+- Server Administration
+- Javascript
+- React.js and Node.js
+- HTML and CSS
+- Bootstrap
+
+## Hobby
+- Setting up game server
+- Playing game
+- Coding
+
+## Contact me
+- Discord: Playmaker#0638
