@@ -1,4 +1,4 @@
-![Background](https://cdn.discordapp.com/attachments/825477528357568523/1002123916996771880/banner_edit.jpg)
+![Background](https://cdn.discordapp.com/attachments/825477528357568523/1002127421232926791/background.jpg)
 
 ## Experience
 - Server Administration
